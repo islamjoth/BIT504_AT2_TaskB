@@ -6,7 +6,7 @@ import javax.swing.event.MouseInputAdapter;
 import org.w3c.dom.events.MouseEvent;
 
 
-
+// this class implements MouseListener
 public class GameMain extends JPanel implements MouseListener{
 	//Constants for game 
 	// number of ROWS by COLS cell constants 
